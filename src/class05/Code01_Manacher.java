@@ -72,6 +72,7 @@ public class Code01_Manacher {
 		return String.valueOf(ans);
 	}
 
+
 	public static void main(String[] args) {
 		int possibilities = 5;
 		int strSize = 20;
